@@ -7,11 +7,12 @@
     "start": "nodemon server.js",
     "debug": "ndb server.js"
   },
-  "author": "S Roopesh",
+  "author": "S Roopesh , Mani Rohit , Sheshu",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^7.0.0",
     "express": "^4.16.4",
+    "git": "^0.1.5",
     "mongoose": "^5.13.20",
     "morgan": "^1.9.1",
     "slugify": "^1.6.6",
